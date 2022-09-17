@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Success</string>
+    <string name="choose_a_gesture">Choose a Gesture</string>
+    <string name="replay">Replay</string>
+    <string name="practice">Practice</string>
+    <string name="record">Record</string>
+    <string name="upload">UPLOAD</string>
+    <string name="stopCamera">STOP</string>
+    <string name="recordCamera">RECORD</string>
+    <string name="stopRecording">STOP</string>
+    <string name="recordStopped">RECORD</string>
+
+    <string-array name="videos_array">
+        <item>Select a Gesture</item>
+        <item>h_0</item>
+        <item>h_1</item>
+        <item>h_2</item>
+        <item>h_3</item>
+        <item>h_4</item>
+        <item>h_5</item>
+        <item>h_6</item>
+        <item>h_7</item>
+        <item>h_8</item>
+        <item>h_9</item>
+        <item>h_decreasefanspeed</item>
+        <item>h_fanoff</item>
+        <item>h_fanon</item>
+        <item>h_increasefanspeed</item>
+        <item>h_lightoff</item>
+        <item>h_lighton</item>
+        <item>h_setthermo</item>
+    </string-array>
+</resources>
